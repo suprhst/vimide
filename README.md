@@ -4,7 +4,7 @@ The vimrc for my vim setup
 install vim plug 
 
 copy the contents of this file to .vimrc  in your home directory if you use vim 
-If on Neovim copy the contents to .config/nvim/init.vim
+If on Neovim copy the contents of  init.vim  to .config/nvim/init.vim
 
 Open vim/neovim and use :PlugInstall
 for youcomplete me plugin you need to download its dependencies seperately and compile the completion engine by : 
